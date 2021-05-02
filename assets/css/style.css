@@ -1,0 +1,45 @@
+body {
+    background-color: lightskyblue;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Yin9Qu5_iMIbYtIFI3oA_XmmrrCbb2ynGA&usqp=CAU");
+    background-color: beige;
+    color: white;
+}
+
+.text1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.box1 {
+    background-color: lightblue
+}
+
+.box1-a {
+    padding-bottom: 15px;
+    margin-left: 5px;
+}
+
+.box2 {
+    background-image: url("https://theunseenwordsproject.files.wordpress.com/2014/07/blue-sky-green-grass.jpg");
+
+}
+
+.text2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color:braun;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 350px;
+}
